@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tushar/study/btp/code/marker/marker.cpp
+opencv2/imgproc/imgproc.hpp
+/home/tushar/study/btp/code/marker/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/tushar/study/btp/code/marker/opencv2/highgui/highgui.hpp
+opencv2/core/core.hpp
+/home/tushar/study/btp/code/marker/opencv2/core/core.hpp
+iostream
+-
+stdlib.h
+-
+

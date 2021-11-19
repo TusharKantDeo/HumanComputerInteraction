@@ -1,0 +1,2 @@
+/home/tushar/study/btp/code/marker/CMakeFiles/marker.dir
+/home/tushar/study/btp/code/marker/CMakeFiles/video.dir
