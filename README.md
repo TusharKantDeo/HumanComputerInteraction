@@ -1,5 +1,12 @@
 # HumanComputerInteraction
-Bachelor Thesis Project: Image processing based touch sensing system and computer vision based mouse control using single camera
+
+AIM: 
+1) Pipeline for touch detection and inverse perspective transformations
+2) Finger Marker Detection 
+3) Tracking pipeline to improve detection (Kalman filter, Mean shift, Optical flow etc )
+
+
+[BTP]: Utility codes for the project:: Image processing based touch sensing system and computer vision based mouse control using single camera
 
 ![image](https://user-images.githubusercontent.com/19845548/143453549-2d16fe5e-f0f1-410a-824f-866f19354b30.png)
 
