@@ -1,9 +1,10 @@
 # HumanComputerInteraction
 
 AIM: 
-1) Pipeline for touch detection and inverse perspective transformations
-2) Finger Marker Detection 
-3) Tracking pipeline to improve detection (Kalman filter, Mean shift, Optical flow etc )
+1) [Transformation] Pipeline for touch detection and inverse perspective transformations
+2) [Detection] Finger Marker Detection 
+3) [Tracking] Tracking pipeline to improve detection (Kalman filter, Mean shift, Optical flow etc )
+4) [Gesture Recognition] Trained Neural network from scratch for gesture detection 
 
 
 [BTP]: Utility codes for the project:: Image processing based touch sensing system and computer vision based mouse control using single camera
