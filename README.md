@@ -12,8 +12,8 @@ Bachelor Thesis Project: Image processing based touch sensing system and compute
 # Touch Detection 
 
 
+![image](https://user-images.githubusercontent.com/19845548/143455498-8fe434a7-985c-43d2-a3e4-6ecc65b0cf84.png)
 
-![image](https://user-images.githubusercontent.com/19845548/143453437-0ec9f88b-2328-41a6-8340-e0a1f8ce26fe.png)
 
 ![image](https://user-images.githubusercontent.com/19845548/143454936-dce678f4-7dd1-4e8f-8bf4-4c595ed2e3a7.png)
 
