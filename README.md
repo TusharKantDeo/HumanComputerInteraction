@@ -17,3 +17,16 @@ Bachelor Thesis Project: Image processing based touch sensing system and compute
 
 ![image](https://user-images.githubusercontent.com/19845548/143454936-dce678f4-7dd1-4e8f-8bf4-4c595ed2e3a7.png)
 
+
+
+# Finger Detection
+
+![image](https://user-images.githubusercontent.com/19845548/143455291-ef5c8236-c583-4ac7-bcd5-bf05833a6764.png)
+
+# Tracking 
+
+![image](https://user-images.githubusercontent.com/19845548/143455349-ab4b125f-bc40-4741-a314-d8620f0a9f55.png)
+
+![image](https://user-images.githubusercontent.com/19845548/143455395-eddbf998-5872-4e62-a2c3-1c264e1bebd6.png)
+
+
